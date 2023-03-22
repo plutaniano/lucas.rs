@@ -1,5 +1,5 @@
 {
-	"name": "bloglucas.rs",
+	"name": "lucas.rs",
 	"version": "2.1.0",
 	"scripts": {
 		"dev": "astro dev",

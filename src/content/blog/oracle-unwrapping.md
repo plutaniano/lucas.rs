@@ -1,12 +1,11 @@
 ---
 pubDatetime: 2023-03-02T03:41:00Z
-title: Unwrapping Oracle's PL/SQL Wrapped Objects
+title: Unwrapping Oracle's PLSQL Wrapped Objects
 featured: false
 tags:
   - oracle
   - plsql
-description:
-  How Oracle's wrapping works and how to reverse it.
+description: How Oracle's wrapping works and how to reverse it.
 ---
 
 Oracle databases provide a functionality called "PL/SQL Source Text Wrapping", available both as an executable called `wrap` and as a stored procedure under the name `DBMS_DDL.WRAP`. This functionality takes the source code of an object (a function, procedure, trigger...) and returns an obfuscated version of that object.
