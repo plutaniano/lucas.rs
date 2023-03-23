@@ -158,6 +158,8 @@ def unwrap(content: str) -> str:
     return unwrapped.decode()
 ```
 
+I've also created a Python package with this functionality. It's available at this [repo](https://github.com/plutaniano/plsqlunwrap) or via `pip install plsqlunwrap`.
+
 
 ## Security notes
 
