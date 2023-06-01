@@ -1,7 +1,7 @@
 ---
 pubDatetime: 2023-04-06T00:01:00Z
 title: Digging for TOTPs
-featured: yes
+featured: true
 tags:
   - totp
 description: Extracting a TOTP secret from an authenticator app
