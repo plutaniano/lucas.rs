@@ -66,4 +66,4 @@ In [3]: totp.now()
 Out[3]: '003371'
 ```
 
-The number matched the one I had on the app. Challenged completed!
+The number matched the one I had on the app. Challenge completed!
